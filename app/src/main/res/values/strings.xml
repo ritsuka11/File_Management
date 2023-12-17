@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File Management</string>
+    <string name="new_text_file">New Text File</string>
+    <string name="new_folder">New Folder</string>
+</resources>

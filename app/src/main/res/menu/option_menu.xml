@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_new_folder"
+        android:title="@string/new_folder" />
+    <item
+        android:id="@+id/menu_new_text_file"
+        android:title="@string/new_text_file" />
+</menu>
